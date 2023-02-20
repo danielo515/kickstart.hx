@@ -1,4 +1,2 @@
-
---library msgpack-haxe:1.15.1
---library tink_lang:0.7.0
+--library haxe-nvim
 --library safety:1.1.2 
